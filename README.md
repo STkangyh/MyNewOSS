@@ -1,8 +1,12 @@
 # MyNewOSS
-I am YoungHoon Kang :wave:
+I am YoungHoon Kang, Student in the major of Computer Science, SeoulTech :wave:
 
-Major -> :computer: Computer Science 
+:technologist:Interests
+* Web
+* Data Science
+* Open-Source Software
+* Finance (lately interested)
 
-Interest -> :mag:Web, FrontEnd, Open-Source Software
-
-Likes -> Sport(especially Basketball :basketball:), Travel:airplane:, Game
+:heart:Likes
+* Sport(Especially Basketball:basketball:)
+* Travel :airplane:
